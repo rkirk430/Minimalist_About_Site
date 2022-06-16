@@ -10,7 +10,9 @@ const Home = () => {
         <div className="homepage__content">
           {/* Start of Image */}
           <div className="homepage__content-picture">
-            <img src={Headshot} alt="Headshot"/>
+            <div className="homepage__content-picture-image">
+              <img src={Headshot} alt="Headshot"/>
+            </div>
           </div>
           {/* End of Image */}
 

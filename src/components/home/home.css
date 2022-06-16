@@ -1,0 +1,14 @@
+.homepage__home {
+    width: 100%;
+    min-height: 100vh;
+    clear: both;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.homepage__content {
+    display: flex;
+    align-items: center;
+}

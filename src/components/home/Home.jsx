@@ -3,6 +3,8 @@ import Social from "../social/Social";
 import Headshot from '../../assets/headshot_picture1.png'
 import './home.css'
 
+
+
 const Home = () => {
   return (
     <>
